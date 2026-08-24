@@ -1,0 +1,58 @@
+aid: sagaris
+name: SAGARIS
+description: >-
+  SAGARIS is an agentic revenue operating system for B2B sales teams — CRM, dialer, inbox, SMS,
+  social, an AI receptionist and an AI coach in one system, where AI agents act on the pipeline
+  under approval gates and an audit trail rather than only reporting on it. Pricing is public at
+  499 USD per founding seat per month, with a custom Enterprise plan. SAGARIS describes a Model
+  Context Protocol endpoint that lets an AI client read the CRM, sequences and workspace with a
+  workspace API key, read-only and scoped to the workspace.
+type: Index
+url: https://raw.githubusercontent.com/api-evangelist/sagaris/refs/heads/main/apis.yml
+created: '2026-08-24'
+modified: '2026-08-24'
+specificationVersion: '0.23'
+tags:
+- Sales
+- CRM
+- Revenue Operations
+- Agents
+- MCP
+- AI
+tags_raw:
+- crm
+- sales
+- revenue operations
+- mcp
+- ai agents
+apis: []
+common:
+- type: LLMsTxt
+  url: llms/sagaris-llms.txt
+- type: Website
+  url: https://www.sagaris.ai/
+- type: Documentation
+  url: https://www.sagaris.ai/docs
+- type: MCPServer
+  url: https://www.sagaris.ai/mcp
+maintainers:
+- FN: SAGARIS
+  email: Suleman@sagaris.ai
+  url: https://www.sagaris.ai/
+x-provenance:
+  added: '2026-08-24'
+  method: searched
+  source: https://www.sagaris.ai/llms.txt
+  note: >-
+    Submitted via apis.io/add on 2026-08-24 and auto-published by the gate at rating 48. The
+    submitted APIs.json at https://www.sagaris.ai/apis.json returns 404 against a control that
+    also 404s, so it is a bad pointer rather than an absent surface.
+    A 26KB llms.txt IS served and is kept here. On a first probe it returned 503; a later request
+    returned 200, so that was transient and not a block — worth noting before anyone reads a
+    single 503 as a dead host.
+    apis[] IS EMPTY ON PURPOSE. No OpenAPI was found: /openapi.json and /apis.json both return
+    real 404s, and the llms.txt — which is long and carefully written — names no machine-readable
+    specification anywhere in it. SAGARIS describes an MCP server at /mcp, but that URL serves a
+    marketing page rather than a protocol endpoint, and probes of /api/mcp, /mcp/sse and
+    mcp.sagaris.ai found nothing. The MCPServer pointer therefore records what the provider
+    CLAIMS, not a verified endpoint. Nothing was modelled to fill the gap.

@@ -1,0 +1,141 @@
+# SAGARIS
+
+> SAGARIS is an agentic revenue operating system for B2B sales teams: CRM, dialer, inbox, SMS, social, an AI receptionist and an AI coach in one system, where AI agents act on the pipeline under approval gates and an audit trail rather than only reporting on it. This file points an agent at the machine-readable surfaces of sagaris.ai and at the pages that answer the common questions.
+
+Pricing is public: 499 USD per founding seat per month for the whole platform, and a custom-priced Enterprise plan on an annual agreement. The pricing page carries schema.org SoftwareApplication and Offer markup for the same figures.
+
+SAGARIS also serves a public REST API and a Model Context Protocol endpoint, both authenticated with a workspace API key. Neither is listed below: they live under /api, which robots.txt disallows, and pointing a crawler at a URL the same site asks it not to fetch is a contradiction rather than a courtesy.
+
+## Machine-readable surfaces
+
+- [Sitemap](https://www.sagaris.ai/sitemap.xml): every public marketing page, including blog posts and open roles.
+- [robots.txt](https://www.sagaris.ai/robots.txt): crawl rules. The authenticated product and the tenant-scoped link surfaces are disallowed.
+
+## What SAGARIS is
+
+- [SAGARIS | AI Sales Operator for B2B Sales Teams](https://www.sagaris.ai/): SAGARIS is an AI Sales Operator: CRM, dialer, email, SMS and social on one memory, with AI that executes under approval gates. $499 per founding seat.
+- [What Is an AI Sales Operator?](https://www.sagaris.ai/what-is-an-ai-sales-operator): An AI Sales Operator runs the revenue motion rather than recording it: CRM, calls, email, SMS and social on one record, under approval gates and an audit trail.
+- [Platform Overview | SAGARIS AI Sales Operator](https://www.sagaris.ai/platform): The SAGARIS platform is an AI Sales Operator built as an agentic revenue OS: CRM, dialer, inbox, SMS, social and coaching share one memory and one brain.
+- [SAGARIS AI Sales Operator Pricing | $499 per Founding Seat](https://www.sagaris.ai/pricing): SAGARIS pricing: $499 per founding seat per month for the full AI Sales Operator, replacing a $1,200-plus per-rep stack of CRM, dialer and coaching tools.
+- [Replace Your Sales Stack With AI](https://www.sagaris.ai/replace-your-sales-stack-with-ai): Most of a sales stack consolidates into one AI seat. The per-category math, what changes operationally, and the specialist depth you give up. $499 per seat.
+- [Documentation](https://www.sagaris.ai/docs): SAGARIS documentation: guides, concepts and API reference for the Company Brain, AI agents and every channel of SAGARIS, an agentic revenue OS.
+- [MCP Server for Your CRM and Pipeline](https://www.sagaris.ai/mcp): SAGARIS serves a Model Context Protocol endpoint, so an AI client can read your CRM, your sequences and your Brain with your workspace API key. Read only, scoped to your workspace.
+- [Trust and Security](https://www.sagaris.ai/trust): How SAGARIS, an agentic revenue OS, protects customer data: database-layer tenant isolation, SCIM v2 provisioning, and an honest compliance roadmap.
+- [Procurement and Security Review Pack](https://www.sagaris.ai/trust/procurement): SAGARIS procurement pack: CAIQ and SIG Lite responses, a SOC 2-mapped control matrix, subprocessor list and pen-test status, released to a named reviewer.
+- [Get Started](https://www.sagaris.ai/start): Start SAGARIS with your own pipeline: connect your CRM, import a CSV, upload an export, or explore a sample pipeline. A revenue engineer connects it with you, starting the same working day.
+
+## Modules
+
+- [AI CRM and Pipeline Management](https://www.sagaris.ai/crm): SAGARIS is an AI CRM inside an agentic revenue OS: calls, emails and texts log themselves, and every deal is scored and advanced on evidence, not memory.
+- [AI Power Dialer](https://www.sagaris.ai/dialer): SAGARIS AI dialer: parallel dialing on dedicated number pools capped at 50 dials per number per day, with live coaching, voicemail drops and auto-logged calls.
+- [Unified Sales Inbox](https://www.sagaris.ai/inbox): SAGARIS unified inbox puts email, SMS and call threads on one timeline per deal, with AI-drafted replies grounded in the full history of every channel.
+- [Sales SMS with 10DLC Compliance](https://www.sagaris.ai/sms): SAGARIS SMS: two-way texting on the same deal timeline as calls and email, with AI-drafted replies, automated 10DLC registration and quiet-hour enforcement.
+- [Social Media for Sales Teams](https://www.sagaris.ai/social): SAGARIS social: plan, draft and approve posts in your brand voice on the same revenue brain, LinkedIn-first, with comments and replies routed to the CRM.
+- [Sales Analytics and Forecasting](https://www.sagaris.ai/analytics): SAGARIS analytics, part of an agentic revenue OS: forecasts from live conversation signals with Monte Carlo projection, each number drilling to source calls.
+- [AI Receptionist for Inbound Calls](https://www.sagaris.ai/ai-receptionist): SAGARIS AI Receptionist answers inbound calls around the clock, qualifies callers, books meetings on live calendars, and warm-transfers to a human on request.
+- [AI Sales Coach](https://www.sagaris.ai/ai-coach): SAGARIS AI Coach scores every sales call the moment it ends on six published dimensions, files the moments a reviewer marks, and turns rep ramp into a trend you can measure.
+
+## Comparisons with other vendors
+
+- [Compare SAGARIS | Alternatives to Outreach, Gong and More](https://www.sagaris.ai/alternatives): Honest comparisons: SAGARIS vs Outreach, Salesloft, Clari, Gong, Apollo, Nooks, Orum, Monaco, Regie.ai and Rox, with the $499 price published.
+- [Apollo Alternative | SAGARIS vs Apollo](https://www.sagaris.ai/alternatives/apollo): SAGARIS vs Apollo: execution and governance versus contact data supply. Apollo positions its AI as an assistant; SAGARIS acts under approval gates.
+- [Gong Alternative | SAGARIS vs Gong](https://www.sagaris.ai/alternatives/gong): SAGARIS vs Gong: execution with tenant-isolated learning at a published $499 per seat, versus the deepest conversation intelligence in the category.
+- [Monaco Alternative | SAGARIS vs Monaco (monaco.com)](https://www.sagaris.ai/alternatives/monaco): SAGARIS vs Monaco: two young AI revenue platforms, one with published $499 pricing and documented governance, one with an eight-page site.
+- [Nooks Alternative | SAGARIS vs Nooks](https://www.sagaris.ai/alternatives/nooks): SAGARIS vs Nooks: parallel dialing inside a complete revenue engine at a published $499 per seat, versus a dialing-first specialist with no published pricing.
+- [Orum Alternative | SAGARIS vs Orum](https://www.sagaris.ai/alternatives/orum): SAGARIS vs Orum: AI calling inside a complete revenue engine at a published $499 per seat, versus a dedicated power dialer with real specialist depth.
+- [Outreach Alternative | SAGARIS vs Outreach](https://www.sagaris.ai/alternatives/outreach): SAGARIS vs Outreach: one AI revenue engine at a published $499 per seat, versus the established enterprise sales engagement platform. Checked August 12, 2026.
+- [PhoneBurner Alternative | SAGARIS vs PhoneBurner](https://www.sagaris.ai/alternatives/phoneburner): SAGARIS vs PhoneBurner: parallel dialing inside a complete revenue engine at $499 per seat, versus a SOC 2 certified power dialer from $140 per user per month.
+- [Regie.ai Alternative | SAGARIS vs Regie.ai](https://www.sagaris.ai/alternatives/regie): SAGARIS vs Regie.ai: both publish $499 per user per month. Regie requires five seats on an annual contract; SAGARIS is monthly and includes the CRM.
+- [Rox Alternative | SAGARIS vs Rox (rox.com)](https://www.sagaris.ai/alternatives/rox): SAGARIS vs Rox: the whole engine with dialer, CRM and AI receptionist at a flat $499 per seat, versus usage-metered revenue agents for the Global 2000.
+- [Salesforce Alternatives Compared | SAGARIS vs Salesforce](https://www.sagaris.ai/alternatives/salesforce): Salesforce alternatives compared: HubSpot, Zoho, Dynamics, Pipedrive, monday and SAGARIS. None of them gives a rep parallel dialing. We do, from day one.
+- [Salesloft Alternative | SAGARIS vs Salesloft](https://www.sagaris.ai/alternatives/salesloft): SAGARIS vs Salesloft: one AI revenue engine with the CRM included at a published $499 per seat, versus enterprise revenue orchestration on top of your stack.
+- [Clari + Salesloft Alternative | SAGARIS vs the Merger](https://www.sagaris.ai/alternatives/salesloft-clari): SAGARIS vs Clari + Salesloft, the merged platform: dialer, CRM and AI receptionist on one brain at a published $499 per seat, versus a quote.
+
+## Who SAGARIS is for
+
+- [SAGARIS for Founders | AI Sales Operator](https://www.sagaris.ai/founders): SAGARIS for founders: the AI Sales Operator follows up, logs everything, books meetings and briefs you before every call, for $499 per founding seat per month.
+- [SAGARIS for SDR Teams | AI Sales Operator](https://www.sagaris.ai/sdr-teams): SAGARIS for SDR teams: AI writes every touch, briefs every dial and books the meeting the moment a lead says yes, so reps spend the day talking to buyers.
+- [SAGARIS for Sales Teams | AI Sales Operator](https://www.sagaris.ai/sales-teams): SAGARIS for sales teams: every deal briefed before the meeting, followed up in minutes, and de-risked with explainable factors before it costs the quarter.
+- [SAGARIS for RevOps | AI Sales Operator](https://www.sagaris.ai/revops): SAGARIS for RevOps: an agentic revenue OS with one record, governed agents, and audited Salesforce and HubSpot write-back behind a go-live switch.
+- [SAGARIS for Agencies | AI Sales Operator](https://www.sagaris.ai/agencies): SAGARIS for agencies: your strategists set the playbook and the AI Sales Operator runs each client's outreach, calls and follow-through, with client reports.
+
+## Company
+
+- [About SAGARIS | AI Sales Operator](https://www.sagaris.ai/about): SAGARIS builds the AI Sales Operator: one brain across CRM, calls, email, SMS and social that executes, built in the open with a founding cohort.
+- [Careers at SAGARIS | AI Sales Operator](https://www.sagaris.ai/careers): Careers at SAGARIS: a small, senior, remote-first team building the AI Sales Operator, where agents do the admin and humans do the judgment. See open seats.
+- [Open Roles | Careers at SAGARIS](https://www.sagaris.ai/careers/open-roles): Every open role at SAGARIS, the AI Sales Operator company. Search and filter by team, location and employment type across a remote-first founding team.
+- [Contact SAGARIS | Book a Live Workflow Run](https://www.sagaris.ai/contact): Contact SAGARIS to book a live workflow run of the AI Sales Operator on your own pipeline data. A founder replies within one business day to schedule it.
+- [Customers](https://www.sagaris.ai/customers): Illustrative example teams running SAGARIS, the AI Sales Operator: forecasts that drill to evidence and records that write themselves. Not actual customers.
+- [A Letter from the Founders](https://www.sagaris.ai/founder-letter): Why we built SAGARIS: revenue software remembered everything and did nothing, so we built an AI Sales Operator where the record writes itself and agents act.
+
+## Open roles
+
+- [Founding Engineer · Agents & Infrastructure](https://www.sagaris.ai/careers/open-roles/agents-infrastructure-engineer): Own the agent runtime and the data infrastructure behind the Company Brain — the system that turns messy revenue signal into action the whole GTM org can trust.
+- [Founding Engineer · Frontend](https://www.sagaris.ai/careers/open-roles/frontend-engineer): Craft the product surface where operators watch agents work — fast, legible interfaces that make an autonomous revenue OS feel calm and in control.
+- [Founding Product Designer](https://www.sagaris.ai/careers/open-roles/product-designer): Define how humans and agents share the work. You'll set the design language for SAGARIS end to end, from the first sketch to the shipped interaction.
+- [Revenue Engineer · Forward-Deployed](https://www.sagaris.ai/careers/open-roles/forward-deployed-revenue-engineer): Embed with our first customers, wire SAGARIS into their revenue stack, and turn what you learn in the field back into product. Part engineer, part operator.
+- [Founding GTM Lead](https://www.sagaris.ai/careers/open-roles/gtm-lead): Build the go-to-market motion for a product that runs go-to-market. Own pipeline, positioning, and the first repeatable path from demo to signed design partner.
+- [Founder's Associate · Operations](https://www.sagaris.ai/careers/open-roles/founders-associate): Be the connective tissue of a founding team — run the operating cadence, unblock the founders, and let agents handle the admin while you handle the judgment calls.
+
+## Blog
+
+- [Blog](https://www.sagaris.ai/blog): The SAGARIS blog: field notes on the AI Sales Operator, evidence-carrying memory for sales teams, and go-to-market systems that run themselves.
+- [What the AI crawlers actually fetched from this site in one week](https://www.sagaris.ai/blog/what-the-ai-crawlers-actually-fetched-in-one-week): We read a week of our own edge logs. OpenAI's crawlers came 584 times, a live assistant fetched us 114 times mid-question, and being fetched turned out to be the easy part.
+- [A deletion request an AI cannot honour is not a deletion](https://www.sagaris.ai/blog/a-deletion-an-ai-cannot-honour): You deleted the contact row. The model had already stored what it concluded from their emails as separate records with their own identity.
+- [A filing cabinet that runs on the honesty of a tired person at six in the evening](https://www.sagaris.ai/blog/a-filing-cabinet-that-runs-on-honesty): Your forecast reads fields a human typed from memory, after five calls, while being measured on those same fields. Everything downstream inherits that.
+- ["AI caused the layoffs" does not survive its own source](https://www.sagaris.ai/blog/ai-caused-the-layoffs-does-not-survive-its-own-source): Two claims, two primary documents. Open either one and the headline it produced is not the finding it reports.
+- [An audit trail nobody can query is a log, not an audit trail](https://www.sagaris.ai/blog/an-audit-trail-nobody-can-query): Emitting the record is the easy half. The test is whether a specific question has a defined answer, and which questions yours cannot answer.
+- [Approval is a boundary, not a checkbox](https://www.sagaris.ai/blog/approval-is-a-boundary-not-a-checkbox): A checkbox records that someone consented. A boundary is a limit the system cannot cross whatever was clicked. Most tools ship one and describe the other.
+- [Consent that fails closed](https://www.sagaris.ai/blog/consent-that-fails-closed): A consent gate is only real when you know what it does with an answer it cannot determine, and what that costs you in your own dashboards.
+- [Deleting a fact is not the same as knowing it stopped being true](https://www.sagaris.ai/blog/deleting-a-fact-is-not-knowing-it-stopped-being-true): Three operations look identical from the outside: remove it, end it, suppress it. Picking the wrong one costs you either the audit trail or the answer.
+- [Deliverability is an infrastructure problem in a copywriting costume](https://www.sagaris.ai/blog/deliverability-is-an-infrastructure-problem): One-click unsubscribe fails unless two headers sit inside the DKIM signature. No subject line rewrite reaches that layer, which is where most advice is aimed.
+- [Fail-closed means the failure is silence, not damage](https://www.sagaris.ai/blog/fail-closed-means-the-failure-is-silence): Six exact strings open the outbound gate. Every other value on earth, including a typo of the word true, leaves it shut. That choice has a real cost.
+- [Fifty dials per number per day, and why the limit has to be atomic](https://www.sagaris.ai/blog/fifty-dials-per-number-atomic): Two dial paths read the same counter, both see 49, both decide there is room. A cap enforced that way is not a cap. It is an average.
+- [Google has no clickbait policy. It has something stricter](https://www.sagaris.ai/blog/google-has-no-clickbait-policy-it-has-something-stricter): Clickbait appears zero times in Google's spam policies and zero times in the rater guidelines. What does exist is an accuracy rule, and it is harder to pass.
+- [Graduated autonomy, with the levels named in code](https://www.sagaris.ai/blog/graduated-autonomy-levels-named-in-code): Four level names, three verdicts, one function deciding between them. The interesting part is what it refuses to do at the top rung of the ladder.
+- [Half the AI sales statistics you have seen come from the vendors selling it](https://www.sagaris.ai/blog/half-the-ai-sales-statistics-you-have-seen-come-from-the-vendors-selling-it): Four published AI SDR reply rates disagree by more than a factor of two, and all four publishers sell into the category they are measuring.
+- [Nobody can explain the code, and the machine will not be asked](https://www.sagaris.ai/blog/nobody-can-explain-the-code): Four major projects wrote rules about AI contributions in six weeks. None of them is a quality standard. Every one is about who answers for a change.
+- [Provenance is the only thing that makes an AI answer arguable](https://www.sagaris.ai/blog/provenance-makes-an-ai-answer-arguable): An answer you cannot interrogate is not right or wrong. It is take-it-or-leave-it, and most people take it.
+- [Your RAG confidently quotes the policy you cancelled last March](https://www.sagaris.ai/blog/rag-quotes-the-policy-you-cancelled): The retrieval worked. The citation resolves. The quote is accurate. The answer is still wrong, and no hallucination control you own will catch it.
+- [Read-only by construction: making a dangerous tool unrepresentable](https://www.sagaris.ai/blog/read-only-by-construction): A mutating tool is not blocked on this MCP surface. It cannot be produced. The derivation still ends in a hand-typed array, and the header does not say so.
+- [Renting your phone numbers means renting your reputation](https://www.sagaris.ai/blog/renting-your-phone-numbers-means-renting-your-reputation): Spam Likely is not a verdict on your company. It is a verdict on a string of eleven digits, and it arrives with whatever that string did before you.
+- [Salesforce moved the number everyone still quotes at you](https://www.sagaris.ai/blog/salesforce-moved-the-number-everyone-still-quotes-at-you): The sixth edition of State of Sales says reps sell 30 percent of the time. The seventh says 40. Nothing about the working day changed.
+- [Spam likely is a verdict, not a glitch](https://www.sagaris.ai/blog/spam-likely-is-a-verdict-not-a-glitch): The label lives in someone else's database, written by a company you have no contract with. There is no setting in your dialer that removes it.
+- [A superseded document beats a correct one, and similarity is why](https://www.sagaris.ai/blog/superseded-beats-correct-and-similarity-is-why): The retired policy is not retrieved by accident. It wins the ranking, on merit, because it was written to answer exactly the question being asked.
+- [The claim that survived four rewrites and was still false](https://www.sagaris.ai/blog/the-claim-that-survived-four-rewrites-and-was-still-false): A false sentence about a competitor sat on our homepage through four commits that touched it. Every one of them was careful. None of them re-checked the fact.
+- [The domain you warmed for a month, and the afternoon that burns it](https://www.sagaris.ai/blog/the-domain-you-warmed-for-a-month-and-the-afternoon-that-burns-it): Going up is rate-limited to one step per day. Coming down is evaluated on every tick. That asymmetry is not an oversight, it is the only correct shape.
+- [The reviewer is not your test suite](https://www.sagaris.ai/blog/the-reviewer-is-not-your-test-suite): Generation got cheap and review did not. The complaint about AI pull requests is not about quality, it is about who pays for reading them.
+- [The statistic in your deck cites a domain that no longer resolves](https://www.sagaris.ai/blog/the-statistic-in-your-deck-cites-a-domain-that-no-longer-resolves): One DNS lookup kills the most quoted number in sales follow-up. The worse finding is that the pages repeating it have already dropped the citation.
+- [Unauditable memory is a backdoor with a nicer name](https://www.sagaris.ai/blog/unauditable-memory-is-a-backdoor): If a system can remember something without recording where it came from, then writing to that memory is a way in. The lock is in the identity of the record.
+- [We made our own marketing claims fail the build](https://www.sagaris.ai/blog/we-made-our-own-marketing-claims-fail-the-build): Our homepage shipped invented proof. The fix was not better proofreading. It was a rule that a claim has to pass before it can reach a visitor.
+- [We publish the price. Eleven of the alternatives do not](https://www.sagaris.ai/blog/we-publish-the-price): 499 dollars per founding seat per month, in the HTML and in structured data. A test fails the build if the two numbers ever disagree.
+- [What a carrier actually sees when your team dials](https://www.sagaris.ai/blog/what-a-carrier-actually-sees-when-your-team-dials): A carrier never hears the call. It sees a calling number, a called number, a duration and maybe a signature. Every verdict is computed from those.
+- [What did we believe on the day we lost the deal?](https://www.sagaris.ai/blog/what-did-we-believe-on-the-day-we-lost-the-deal): Your CRM can tell you the champion left. It cannot tell you whether you knew that in March, which is the only question a post-mortem is actually asking.
+- [The Company Brain: one memory across every channel.](https://www.sagaris.ai/blog/the-company-brain-one-memory-across-every-channel): Why a shared brain, not another integration, is what makes calls, email, and pipeline finally speak the same language.
+- [How agents log activity without a single keystroke](https://www.sagaris.ai/blog/how-agents-log-activity-without-a-single-keystroke): Every call, email, and meeting writes itself to the record the moment it happens.
+- [The 30-minute outbound motion, fully automated](https://www.sagaris.ai/blog/the-30-minute-outbound-motion-fully-automated): Build a campaign from chat, preview every AI draft, and let the engine run.
+- [Dynamic AI voicemail: personal at scale](https://www.sagaris.ai/blog/dynamic-ai-voicemail-personal-at-scale): No two drops are the same. Context-aware scripts in your own cloned voice.
+- [Grounding every draft in real pipeline signal](https://www.sagaris.ai/blog/grounding-every-draft-in-real-pipeline-signal): How retrieval over your own deals keeps AI output honest and specific.
+- [Why we built SAGARIS as one system, not six](https://www.sagaris.ai/blog/why-we-built-sagaris-as-one-system-not-six): The case against the six-tool stack, and what a single brain changes.
+- [Coaching from evidence, not ride-alongs](https://www.sagaris.ai/blog/coaching-from-evidence-not-ride-alongs): Every call scored against your playbook, with the winning moments clipped.
+
+## Optional
+
+- [Privacy Policy](https://www.sagaris.ai/privacy): The SAGARIS privacy policy: how Sagaris collects, uses, shares and protects personal data across the marketing site and the Sagaris ROS platform.
+- [Terms of Service](https://www.sagaris.ai/terms): The terms that govern access to and use of the Sagaris ROS platform, including customer data responsibilities, acceptable use, AI features and billing.
+- [Data Processing Addendum](https://www.sagaris.ai/dpa): The SAGARIS Data Processing Addendum: terms for customer-controlled personal data processed through the Sagaris ROS platform, including subprocessor rules.
+- [Refund and Cancellation Policy](https://www.sagaris.ai/refund): How billing, cancellation and refunds work for paid Sagaris ROS plans, including usage-based charges and what to do before filing a card dispute.
+
+## Other pages
+
+- [AI SDR with Permissions Named in Code](https://www.sagaris.ai/ai-sdr): An AI SDR that drafts, calls, emails and books under four named autonomy levels in source code, deciding what runs alone and what waits for a human.
+- [Conversation Intelligence with a Published Rubric](https://www.sagaris.ai/conversation-intelligence): Every call scored on six weighted dimensions, and we publish the weights, the thresholds and the note saying the rubric is an uncalibrated heuristic.
+- [Data Enrichment with Source and Confidence](https://www.sagaris.ai/data-enrichment): Four providers run in parallel on every contact, and the merge keeps the source and confidence on each field. Your own record outranks anything we bought.
+- [B2B Lead Generation Software and Tools](https://www.sagaris.ai/lead-generation-software): Capture from a form, a call, a reply or an import, then the opener fires at the signal instant instead of tomorrow. Every lead graded on a 5 minute SLA.
+- [Lead Routing and Lead Scoring Software](https://www.sagaris.ai/lead-routing): Territory rules assign accounts on every contact write, guarded so routing never overwrites a human owner. Lead distribution is a plan you approve.
+- [Marketing Attribution Software, Six Models](https://www.sagaris.ai/marketing-attribution): Six attribution models score the same closed deal side by side across email, calls, meetings, SMS, LinkedIn and microsites. Outbound revenue, not ad spend.
+- [Sales Enablement Software That Works Mid-Call](https://www.sagaris.ai/sales-enablement): The battlecard appears when a competitor is named, the next question comes from your own library, and the objection ladder moves a rung. All mid-call.
+- [Sales Engagement That Cannot Swarm an Account](https://www.sagaris.ai/sales-engagement): Nine step channels on one sequence model, send windows in the contact's local time, and one sequence email per account per day, enforced at dispatch.
+- [Sales Gamification and Incentive Software](https://www.sagaris.ai/sales-incentives): Twenty two scored actions on an append-only points ledger, with streaks, badges and SPIFF incentives. Gamification that explains why a deal did not qualify.
+- [B2B Sales Intelligence Platform](https://www.sagaris.ai/sales-intelligence): Signals from your own book of business: who changed jobs, who went quiet, and which rival is in the deal. Anything the inbox shows, a trigger can act on.
+- [AI Sales Prospecting Tools with a Real ICP](https://www.sagaris.ai/sales-prospecting): Your ICP has more than one buyer. Ordered segments, a persona set inside each, and research that keeps a finding only when two identity anchors agree.
