@@ -24,12 +24,11 @@ created: '2026-08-24'
 modified: '2026-08-24'
 specificationVersion: '0.23'
 tags:
-- Sales
 - CRM
-- Revenue Operations
-- Agents
+- Sales
+- revenue operations
 - MCP
-- AI
+- ai agents
 tags_raw:
 - crm
 - sales
