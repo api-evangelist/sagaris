@@ -15,7 +15,7 @@ deliveryModel:
   generated: '2026-08-28'
   method: derived
 created: '2026-08-24'
-modified: '2026-08-24'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 tags:
 - CRM
@@ -95,6 +95,10 @@ apis:
   - type: Documentation
     url: https://www.sagaris.ai/mcp
 common:
+- url: https://www.sagaris.ai/blog
+  type: Blog
+- url: https://www.sagaris.ai/blog/rss.xml
+  type: BlogRSS
 - type: LLMsTxt
   url: llms/sagaris-llms.txt
 - type: Website
