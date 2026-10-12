@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/sagaris/integrations
+- https://n8n.io/integrations/sagaris/
+- https://composio.dev/toolkits/sagaris
+- https://monid.ai/tools/sagaris
+checked:
+- https://composio.dev/toolkits/sagaris
+- https://monid.ai/tools/sagaris
+- https://n8n.io/integrations/sagaris/
+- https://zapier.com/apps/sagaris/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
