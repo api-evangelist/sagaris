@@ -1,4 +1,4 @@
-# sagaris
+# SAGARIS
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -63,3 +63,90 @@
 >
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
+
+SAGARIS is an agentic revenue operating system for B2B sales teams — CRM, dialer, inbox, SMS, social, an AI receptionist and an AI coach in one system, where AI agents act on the pipeline under approval gates and an audit trail rather than only reporting on it. Pricing is public at 499 USD per founding seat per month, with a custom Enterprise plan. SAGARIS describes a Model Context Protocol endpoint that lets an AI client read the CRM, sequences and workspace with a workspace API key, read-only and scoped to the workspace.
+
+**Areas:** CRM · Sales · Revenue Operations · MCP · AI Agents
+
+## SAGARIS on APIs.io
+
+Everything profiled for SAGARIS is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sagaris/](https://apis.io/providers/sagaris/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [SAGARIS REST API](https://apis.io/apis/sagaris/sagaris-rest-api/) — REST API for the SAGARIS Agentic Revenue OS, including the Company Brain context endpoints. Bearer/workspace-key authentication. Formal reference, SDKs, and…
+- [SAGARIS MCP Server](https://apis.io/apis/sagaris/sagaris-mcp-server/) — Read-only MCP server over Streamable HTTP (stateless JSON mode), workspace-key bearer auth, exposing 5 GET-derived tools (list_contacts, list_sequences,…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (2)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [mcp](https://apis.io/servers/sagaris/mcp/)
+- [mcp](https://apis.io/servers/sagaris/mcp-2/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.sagaris.ai/)
+- [Documentation](https://www.sagaris.ai/docs)
+- [Blog](https://www.sagaris.ai/blog)
+
+## API Evangelist rating
+
+**Kin Score 7.3** — minimal · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 71.7 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 0.0 |
+
+**Agent readiness 8.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | verified |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sagaris/](https://apis.io/providers/sagaris/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SAGARIS: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/sagaris/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
